@@ -2,4 +2,4 @@
 
 ### こちらの記事の成果物になります
 
-https://zenn.dev/articles/91b4f62b9f48ec
+https://zenn.dev/resistance_gowy/articles/91b4f62b9f48ec
