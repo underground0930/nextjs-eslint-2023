@@ -7,6 +7,7 @@ const buildEslintCommand = (filenames) =>
 
 module.exports = {
   '*.{ts,tsx}': [
+    () => 'tsc --incremental false --noEmit',
     buildEslintCommand,
     "prettier --write"
   ]
