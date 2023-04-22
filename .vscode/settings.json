@@ -1,0 +1,17 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "[typescriptreact]": {},
+  "[typescript]": {},
+  "[jsonc]": {},
+  "[javascript]": {},
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features",
+    "editor.formatOnSave": false
+  },
+  "[ejs]": {
+    "editor.formatOnSave": false
+  }
+}
