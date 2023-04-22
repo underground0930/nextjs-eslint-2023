@@ -1,0 +1,32 @@
+# システムファイル
+.DS_Store
+Thumbs.db
+
+# env
+.env
+.env.development
+.env.production
+.env.local
+.env.development.local
+.env.production.local
+
+# プログラム言語やフレームワークに関連する一般的な無視すべきファイル
+*.log
+*.tmp
+*.bak
+*.swp
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+node_modules/
+dist/
+.cache
+*.class
+
+# ビルドファイル
+build/
+bin/
+obj/
+out/
+.next/
