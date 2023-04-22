@@ -6,6 +6,7 @@
   "editor.quickSuggestions": {
     "strings": true
   },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[typescriptreact]": {},
   "[typescript]": {},
   "[jsonc]": {},
