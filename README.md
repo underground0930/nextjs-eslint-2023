@@ -13,8 +13,8 @@ https://zenn.dev/resistance_gowy/articles/91b4f62b9f48ec
 
 
 ```
-mkdir `自分で設定したいディレクトリ作成`
-cd `自分で設定したいディレクトリ作成`
+mkdir [自分で設定したいディレクトリ作成]
+cd [自分で設定したいディレクトリ作成]
 
 # カレントディレクトリにcloneする
 git clone git@github.com:underground0930/nextjs-eslint-2023.git .
